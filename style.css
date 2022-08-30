@@ -69,15 +69,16 @@ button {
 }
 
 .number {
-  margin-left: 200px;
+  margin: auto;
   font-size: 50px;
   position: absolute;
   top: 80px;
-  left: 350px;
+  left: 45%;
   border: 2px solid white;
   padding: 16px;
 }
 
 .made {
   font-size: 24px;
+  margin-top:30px;
 }
